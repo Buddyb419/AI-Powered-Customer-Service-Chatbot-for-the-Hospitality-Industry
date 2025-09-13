@@ -9,7 +9,7 @@ This project addresses the challenge by developing a practical and user-centric 
 ## Tools Used
 * **Zapier:** The low-code platform used to design, build, and deploy the chatbot.
 * **FAQ Document:** Served as the foundational knowledge base, enabling the chatbot to provide grounded, accurate responses based on the hotel's specific information.
-* **AI & NLP:** The underlying technologies within Botpress that allow the chatbot to understand natural language questions and match them to the correct answers in its knowledge base.
+* **AI & NLP:** The underlying technologies within Zapier that allow the chatbot to understand natural language questions and match them to the correct answers in its knowledge base.
 
 ## Conversation Examples
 
